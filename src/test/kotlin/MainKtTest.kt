@@ -31,7 +31,7 @@ class MainKtTest {
             paymentSystem = paymentSystem
         )
 
-        assertEquals(1, result)
+        assertEquals(0, result)
     }
 
     @Test
